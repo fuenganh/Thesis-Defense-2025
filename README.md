@@ -1,1 +1,2 @@
 # [Thesis defense] Revolutionizing Bank Marketing: Machine Learning Approaches for Predicting Term Deposit Subscriptions
+This thesis explores how machine learning can improve the prediction of term deposit subscriptions in bank marketing campaigns. It evaluates multiple supervised ML models, applies preprocessing and feature engineering techniques, and incorporates SHAP/LIME for explainability. The project aims to identify the most influential features, improve predictive accuracy, and enhance decision-making for financial institutions.
